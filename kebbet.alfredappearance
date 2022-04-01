@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#D9D9D9FF",
+        "font" : "FiraCode Nerd Font Mono",
+        "color" : "#C1C1C1FF"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "FiraCode Nerd Font Mono",
+        "color" : "#C1C1C1FF"
+      },
+      "backgroundSelected" : "#060910FF",
+      "text" : {
+        "size" : 12,
+        "colorSelected" : "#6BFCAFFF",
+        "font" : "FiraCode Nerd Font Mono",
+        "color" : "#B1B3B3FF"
+      },
+      "iconPaddingHorizontal" : 8,
+      "roundness" : 0,
+      "paddingVertical" : 8,
+      "iconSize" : 24
+    },
+    "search" : {
+      "backgroundSelected" : "#00000045",
+      "paddingHorizontal" : 8,
+      "spacing" : 0,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#45FF9CFF",
+        "font" : "FiraCode Nerd Font Mono",
+        "color" : "#6BFCAFFF"
+      },
+      "background" : "#00000011",
+      "roundness" : 0,
+      "paddingVertical" : 0
+    },
+    "window" : {
+      "color" : "#0000005F",
+      "paddingHorizontal" : 0,
+      "width" : 666,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : 0,
+      "paddingVertical" : 0
+    },
+    "credit" : "kebbet",
+    "visualEffectMode" : 2,
+    "separator" : {
+      "color" : "#39393A66",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#BFBFBF66",
+      "thickness" : 2
+    },
+    "name" : "Kebbet 0.0.6"
+  }
+}
